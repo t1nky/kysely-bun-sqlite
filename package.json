@@ -1,7 +1,7 @@
 {
   "name": "@t1nky/kysely-bun-sqlite",
   "module": "dist/index.mjs",
-  "types": "./dist/index.d.ts",
+  "types": "./dist/index.d.mts",
   "repository": {
     "type": "git",
     "url": "https://github.com/t1nky/kysely-bun-sqlite"
